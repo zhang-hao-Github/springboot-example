@@ -1,6 +1,6 @@
 alipay:
   APPID:
-  ALIPAY_PUBLIC_KEY: //QFLY///crwqhk2/+K/+UF//KQIDAQAB //公钥   配置方法 传送门===》https://opendocs.alipay.com/open/291/105971
-  APP_PRIVATE_KEY: /+++/+///+r2C/++///+xjv+emqm/81//++++/+ //私钥
+  ALIPAY_PUBLIC_KEY: //QFLY///crwqhk2/+K/+UF//KQIDAQAB #公钥   配置方法 传送门===》https://opendocs.alipay.com/open/291/105971
+  APP_PRIVATE_KEY: /+++/+///+r2C/++///+xjv+emqm/81//++++/+ #私钥
 server:
   port: 10745
