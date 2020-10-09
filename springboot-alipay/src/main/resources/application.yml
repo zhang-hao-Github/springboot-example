@@ -1,0 +1,6 @@
+alipay:
+  APPID:
+  ALIPAY_PUBLIC_KEY: //QFLY///crwqhk2/+K/+UF//KQIDAQAB
+  APP_PRIVATE_KEY: /+++/+///+r2C/++///+xjv+emqm/81//++++/+MtLOlsb7aZr9drH4VV0yaOErjmZm/2E0wKBgFyikvvTS8K8aNZIlJsYH1Ez0ljhhod972rmhZutoiwPOxY0YmhApga6V6aUSeFzsy1IyykC4bYLk58IuYeEMRVkqC9EeWwVNmwvlyxpxfWqI2e+TssNC8lSsBrwS0pnK9XOL9OXwBzcubzeXhTg9nrOpDFfhVmF8NhrYHUuoMwFAoGBAKUzv9C13rpqPX/tTG1tiHq7t57TSTazjt6Cuqa2huam4D9d4Vm8BHBVwblGe4j3FvUcDd/5i16gISnOiB1LbLrpAQ8QF7vZ9hHf4bvxje27aDHDjSedkxvUzR3G9Syywo1oo2C0AZKGVtQchZQK28E+fx/MsVQhjeN1dYC5FRCPAoGAN+SL8mwzHcVEsnNeIL5+03Zjqe3xkOwwXo6yVlRP4sU89USSHcVvd2akkm6eDngRLnfqcdZGwOEL/ITuXlGjg5TxjvEUf2pfa4Bk+nGHYNncWkzSFApvv0Zf+vGm84fTHtWXYjqV1qE4RgCjAKS9dUtVvoSF/Pa/tVK0ARizJgQ=
+server:
+  port: 10745
