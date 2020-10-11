@@ -59,6 +59,7 @@ public class AliPayServiceImp implements AliPayService {
         return null;
     }
 
+    //@out_trade_no 订单id
     public String tradeQuery(String out_trade_no) {
 
         AlipayTradeQueryRequest request = new AlipayTradeQueryRequest();

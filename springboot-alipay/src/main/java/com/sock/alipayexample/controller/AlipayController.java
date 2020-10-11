@@ -32,7 +32,12 @@ public class AlipayController {
         String qrCode = aliPayService.tradePrecreate(payParams);
         return qrCode;
     }
-
+    /**
+     * @description:
+     * @author: zhanghao
+     * @date: 2020/10/9 22:29
+     * @param: PayParams  获取交易信息   轮询方式 （建议使用异步方式）
+     */
     @PostMapping("/tradeQuery")
     public String tradeQuery(@RequestParam("tradeNo") String tradeNo) {
 

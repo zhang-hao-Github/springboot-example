@@ -15,14 +15,17 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 @ConfigurationProperties(prefix = "alipay")
 public class AliPayConfig {
+    //支付宝网关
     private static final String ALIPAYGATEWAY = "https://openapi.alipay.com/gateway.do";
+    //签名算法
     private static final String SIGN_TYPE = "RSA2";
     private static final String CHARSET = "UTF-8";
     public static final String TIMEOUT_EXPRESS = "60m";
+    //公钥 对应接口加签中的支付宝公钥（非我们填入的）
     public static String ALIPAY_PUBLIC_KEY;
-
+    //appd
     public static String APPID;
-
+    //私钥（自己生成的那个）
     public static String APP_PRIVATE_KEY;
 
     public void setALIPAY_PUBLIC_KEY(String alipay_public_key) {
