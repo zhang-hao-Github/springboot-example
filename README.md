@@ -2,7 +2,7 @@
 
 个人对代码的一些理解以及一些常用的技术案例，常用解决方案等。
 
-详细点击跳转[wiki](https://github.com/zhang-hao-Github/springboot-example/wiki)
+详细点击跳转[Wiki](https://github.com/zhang-hao-Github/springboot-example/wiki)
 
 
 ### 有问题反馈
